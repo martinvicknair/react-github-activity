@@ -4,7 +4,7 @@ export const styles = {
     'display': 'table',
     'border': '1px solid #ddd',
     'height': '100%',
-    'minHeight': '200px',
+    'minHeight': '600px',
     'width': '100%',
     // 'minWidth': '500px',
     'fontFamily': '-apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif',
