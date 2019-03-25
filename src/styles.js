@@ -6,7 +6,7 @@ export const styles = {
     'height': '100%',
     'minHeight': '200px',
     'width': '100%',
-    'minWidth': '500px',
+    // 'minWidth': '500px',
     'fontFamily': '-apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif',
     'fontSize': '1rem',
     'color': '#373a3c'
